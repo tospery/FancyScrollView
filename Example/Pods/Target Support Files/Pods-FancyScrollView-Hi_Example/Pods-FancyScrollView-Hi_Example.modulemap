@@ -1,0 +1,6 @@
+framework module Pods_FancyScrollView_Hi_Example {
+  umbrella header "Pods-FancyScrollView-Hi_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

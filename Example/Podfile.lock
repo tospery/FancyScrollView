@@ -1,0 +1,16 @@
+PODS:
+  - FancyScrollView-Hi (0.1.4-v1)
+
+DEPENDENCIES:
+  - FancyScrollView-Hi (from `../`)
+
+EXTERNAL SOURCES:
+  FancyScrollView-Hi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FancyScrollView-Hi: f212eccbe063d5093eca837934a02d15eae7fba1
+
+PODFILE CHECKSUM: e3579aa580e4d8e3a84d99c0449fedb132403109
+
+COCOAPODS: 1.14.3
